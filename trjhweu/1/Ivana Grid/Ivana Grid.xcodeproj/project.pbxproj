@@ -1,0 +1,226 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F677C1BF14D98F5D00644A5A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = F677C1BE14D98F5D00644A5A /* AppDelegate.mm */; };
+		F677C1C114D98F5D00644A5A /* en.strings in Resources */ = {isa = PBXBuildFile; fileRef = F677C1C014D98F5D00644A5A /* en.strings */; };
+		F677C1C314D98F5D00644A5A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F677C1C214D98F5D00644A5A /* main.m */; };
+		F677C1C514D98F5D00644A5A /* main.pch in Resources */ = {isa = PBXBuildFile; fileRef = F677C1C414D98F5D00644A5A /* main.pch */; };
+		F677C1C814D98F5D00644A5A /* main.xib in Resources */ = {isa = PBXBuildFile; fileRef = F677C1C714D98F5D00644A5A /* main.xib */; };
+		F677C1CB14D98F5D00644A5A /* poOpenGLView.mm in Sources */ = {isa = PBXBuildFile; fileRef = F677C1CA14D98F5D00644A5A /* poOpenGLView.mm */; };
+		F677C1CF14D98F5D00644A5A /* Ivana_GridApp.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F677C1CE14D98F5D00644A5A /* Ivana_GridApp.cpp */; };
+		F677C1D114D98F5D00644A5A /* AppConfig.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F677C1D014D98F5D00644A5A /* AppConfig.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		F677C1B614D98F5D00644A5A /* Ivana Grid.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Ivana Grid.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F677C1BB14D98F5D00644A5A /* Debug.xcconfig */ = {isa = PBXFileReference; name = Debug.xcconfig; path = ../platform/Debug.xcconfig; sourceTree = "<group>"; };
+		F677C1BC14D98F5D00644A5A /* Release.xcconfig */ = {isa = PBXFileReference; name = Release.xcconfig; path = ../platform/Release.xcconfig; sourceTree = "<group>"; };
+		F677C1BD14D98F5D00644A5A /* AppDelegate.h */ = {isa = PBXFileReference; name = AppDelegate.h; path = ../platform/AppDelegate.h; sourceTree = "<group>"; };
+		F677C1BE14D98F5D00644A5A /* AppDelegate.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = ../platform/AppDelegate.mm; sourceTree = "<group>"; };
+		F677C1C014D98F5D00644A5A /* en.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en.strings; path = ../platform/en.strings; sourceTree = "<group>"; };
+		F677C1C214D98F5D00644A5A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = main.m; path = ../platform/main.m; sourceTree = "<group>"; };
+		F677C1C414D98F5D00644A5A /* main.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = main.pch; path = ../platform/main.pch; sourceTree = "<group>"; };
+		F677C1C614D98F5D00644A5A /* main.plist */ = {isa = PBXFileReference; name = main.plist; path = ../platform/main.plist; sourceTree = "<group>"; };
+		F677C1C714D98F5D00644A5A /* main.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = main.xib; path = ../platform/main.xib; sourceTree = "<group>"; };
+		F677C1C914D98F5D00644A5A /* poOpenGLView.h */ = {isa = PBXFileReference; name = poOpenGLView.h; path = ../platform/poOpenGLView.h; sourceTree = "<group>"; };
+		F677C1CA14D98F5D00644A5A /* poOpenGLView.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; name = poOpenGLView.mm; path = ../platform/poOpenGLView.mm; sourceTree = "<group>"; };
+		F677C1CD14D98F5D00644A5A /* Ivana_GridApp.h */ = {isa = PBXFileReference; path = Ivana_GridApp.h; sourceTree = "<group>"; };
+		F677C1CE14D98F5D00644A5A /* Ivana_GridApp.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Ivana_GridApp.cpp; sourceTree = "<group>"; };
+		F677C1D014D98F5D00644A5A /* AppConfig.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = AppConfig.cpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F677C1B314D98F5D00644A5A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F677C1AB14D98F5C00644A5A = {
+			isa = PBXGroup;
+			children = (
+				F677C1B914D98F5D00644A5A /* Ivana Grid */,
+				F677C1B714D98F5D00644A5A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F677C1B714D98F5D00644A5A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F677C1B614D98F5D00644A5A /* Ivana Grid.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F677C1B914D98F5D00644A5A /* Ivana Grid */ = {
+			isa = PBXGroup;
+			children = (
+				F677C1BA14D98F5D00644A5A /* platform */,
+				F677C1CC14D98F5D00644A5A /* application */,
+			);
+			path = "Ivana Grid";
+			sourceTree = "<group>";
+		};
+		F677C1BA14D98F5D00644A5A /* platform */ = {
+			isa = PBXGroup;
+			children = (
+				F677C1BB14D98F5D00644A5A /* Debug.xcconfig */,
+				F677C1BC14D98F5D00644A5A /* Release.xcconfig */,
+				F677C1BD14D98F5D00644A5A /* AppDelegate.h */,
+				F677C1BE14D98F5D00644A5A /* AppDelegate.mm */,
+				F677C1C014D98F5D00644A5A /* en.strings */,
+				F677C1C214D98F5D00644A5A /* main.m */,
+				F677C1C414D98F5D00644A5A /* main.pch */,
+				F677C1C614D98F5D00644A5A /* main.plist */,
+				F677C1C714D98F5D00644A5A /* main.xib */,
+				F677C1C914D98F5D00644A5A /* poOpenGLView.h */,
+				F677C1CA14D98F5D00644A5A /* poOpenGLView.mm */,
+			);
+			name = platform;
+			sourceTree = "<group>";
+		};
+		F677C1CC14D98F5D00644A5A /* application */ = {
+			isa = PBXGroup;
+			children = (
+				F677C1CD14D98F5D00644A5A /* Ivana_GridApp.h */,
+				F677C1CE14D98F5D00644A5A /* Ivana_GridApp.cpp */,
+				F677C1D014D98F5D00644A5A /* AppConfig.cpp */,
+			);
+			name = application;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F677C1B514D98F5D00644A5A /* Ivana Grid */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F677C1D414D98F5D00644A5A /* Build configuration list for PBXNativeTarget "Ivana Grid" */;
+			buildPhases = (
+				F677C1B214D98F5D00644A5A /* Sources */,
+				F677C1B314D98F5D00644A5A /* Frameworks */,
+				F677C1B414D98F5D00644A5A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Ivana Grid";
+			productName = "Ivana Grid";
+			productReference = F677C1B614D98F5D00644A5A /* Ivana Grid.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F677C1AD14D98F5C00644A5A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+				ORGANIZATIONNAME = NYU;
+			};
+			buildConfigurationList = F677C1B014D98F5C00644A5A /* Build configuration list for PBXProject "Ivana Grid" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = F677C1AB14D98F5C00644A5A;
+			productRefGroup = F677C1B714D98F5D00644A5A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F677C1B514D98F5D00644A5A /* Ivana Grid */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F677C1B414D98F5D00644A5A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F677C1C114D98F5D00644A5A /* en.strings in Resources */,
+				F677C1C514D98F5D00644A5A /* main.pch in Resources */,
+				F677C1C814D98F5D00644A5A /* main.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F677C1B214D98F5D00644A5A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F677C1BF14D98F5D00644A5A /* AppDelegate.mm in Sources */,
+				F677C1C314D98F5D00644A5A /* main.m in Sources */,
+				F677C1CB14D98F5D00644A5A /* poOpenGLView.mm in Sources */,
+				F677C1CF14D98F5D00644A5A /* Ivana_GridApp.cpp in Sources */,
+				F677C1D114D98F5D00644A5A /* AppConfig.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		F677C1D214D98F5D00644A5A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F677C1BB14D98F5D00644A5A /* Debug.xcconfig */;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		F677C1D314D98F5D00644A5A /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F677C1BC14D98F5D00644A5A /* Release.xcconfig */;
+			buildSettings = {
+			};
+			name = Release;
+		};
+		F677C1D514D98F5D00644A5A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		F677C1D614D98F5D00644A5A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F677C1B014D98F5C00644A5A /* Build configuration list for PBXProject "Ivana Grid" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F677C1D214D98F5D00644A5A /* Debug */,
+				F677C1D314D98F5D00644A5A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F677C1D414D98F5D00644A5A /* Build configuration list for PBXNativeTarget "Ivana Grid" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F677C1D514D98F5D00644A5A /* Debug */,
+				F677C1D614D98F5D00644A5A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F677C1AD14D98F5C00644A5A /* Project object */;
+}
