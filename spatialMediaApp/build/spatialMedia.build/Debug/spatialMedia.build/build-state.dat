@@ -1,0 +1,411 @@
+TspatialMedia
+v4
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/spatialMedia.app/Contents/Info.plist platform/main.plist
+cProcessPCH++ /var/folders/+j/+j0eMN4qHtuHAvpI6loUEU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/main-btcbbrlgbzqgjncwnuclxqgvvjkk/main.pch.pth platform/main.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/+j/+j0eMN4qHtuHAvpI6loUEU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/main-hhvhqxzncfkhysdxmpuylskrklgr/main.pch.pth platform/main.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH++ /var/folders/+j/+j0eMN4qHtuHAvpI6loUEU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/main-fzrwhokrmanmdsabblqqponbbvgq/main.pch.pth platform/main.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/main.o /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/../platform/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/spatialMediaApp.o /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/spatialMediaApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/AppDelegate.o /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/../platform/AppDelegate.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/poOpenGLView.o /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/../platform/poOpenGLView.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/AppConfig.o /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/AppConfig.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/spatialMedia.app/Contents/MacOS/spatialMedia normal i386
+cCopyStringsFile /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/spatialMedia.app/Contents/Resources/en.strings spatialMedia/../platform/en.strings
+cCpResource platform/main.pch build/Debug/spatialMedia.app/Contents/Resources/main.pch
+cCompileXIB /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/../platform/main.xib
+cTouch /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/spatialMedia.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004F24800700000000000000EE
+t1327792135
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/OpenGL.h
+c000000004DEEB7FC0000000000001659
+t1307490300
+s5721
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h
+c000000004DEEB7FC0000000000003F84
+t1307490300
+s16260
+
+N/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/spatialMedia.app
+t2
+s0
+
+N/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/spatialMedia.app/Contents/Info.plist
+t2
+s0
+
+N/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/spatialMedia.app/Contents/MacOS/spatialMedia
+t2
+s0
+
+N/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/spatialMedia.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/spatialMedia.app/Contents/Resources/en.strings
+t2
+s0
+
+N/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/spatialMedia.app/Contents/Resources/main.nib
+t2
+s0
+
+N/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/spatialMedia.app/Contents/Resources/main.pch
+t2
+s0
+
+N/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/AppConfig.o
+t2
+s0
+
+N/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/poOpenGLView.o
+t2
+s0
+
+N/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/spatialMedia.LinkFileList
+c000000004F286E65000000000000029F
+t1328049765
+s671
+
+N/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/spatialMediaApp.o
+t2
+s0
+
+N/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/platform/main.pch
+c000000004F273A8C00000000000002E8
+t1327970956
+s744
+i<Cocoa/Cocoa.h>
+i<OpenGL/OpenGL.h>
+i<OpenGL/glu.h>
+i<string>
+i<vector>
+i<set>
+i<list>
+i<stack>
+i<map>
+i<algorithm>
+i<boost/any.hpp>
+i<boost/bind.hpp>
+i<boost/variant.hpp>
+i<boost/foreach.hpp>
+i<boost/function.hpp>
+i<boost/noncopyable.hpp>
+i<boost/tuple/tuple.hpp>
+i<boost/unordered_map.hpp>
+i<boost/shared_ptr.hpp>
+i<boost/thread.hpp>
+i<boost/filesystem.hpp>
+
+N/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/../platform/AppDelegate.mm
+c000000004F273A8C0000000000001E1D
+t1327970956
+s7709
+
+N/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/../platform/en.strings
+c000000004F273A8C000000000000002D
+t1327970956
+s45
+
+N/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/../platform/main.m
+c000000004F273A8C0000000000000077
+t1327970956
+s119
+
+N/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/../platform/main.xib
+c000000004F273A8C0000000000006176
+t1327970956
+s24950
+
+N/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/../platform/poOpenGLView.mm
+c000000004F273A8C00000000000012F4
+t1327970956
+s4852
+
+N/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/AppConfig.cpp
+c000000004F273A8C0000000000000193
+t1327970956
+s403
+
+N/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/spatialMediaApp.cpp
+c000000004F2831080000000000000881
+t1328034056
+s2177
+
+N/pocode/libraries/Boost/boost_1_45_0/boost/any.hpp
+c000000004F2486A20000000000001969
+t1327793826
+s6505
+
+N/pocode/libraries/Boost/boost_1_45_0/boost/bind.hpp
+c000000004F2486A40000000000000245
+t1327793828
+s581
+
+N/pocode/libraries/Boost/boost_1_45_0/boost/filesystem.hpp
+c000000004F2486A500000000000004AE
+t1327793829
+s1198
+
+N/pocode/libraries/Boost/boost_1_45_0/boost/foreach.hpp
+c000000004F2486A5000000000000ACC7
+t1327793829
+s44231
+
+N/pocode/libraries/Boost/boost_1_45_0/boost/function.hpp
+c000000004F2486A60000000000000864
+t1327793830
+s2148
+
+N/pocode/libraries/Boost/boost_1_45_0/boost/noncopyable.hpp
+c000000004F2486B500000000000003F6
+t1327793845
+s1014
+
+N/pocode/libraries/Boost/boost_1_45_0/boost/shared_ptr.hpp
+c000000004F2486BF000000000000021B
+t1327793855
+s539
+
+N/pocode/libraries/Boost/boost_1_45_0/boost/thread.hpp
+c000000004F2486C90000000000000347
+t1327793865
+s839
+
+N/pocode/libraries/Boost/boost_1_45_0/boost/tuple/tuple.hpp
+c000000004F2486C90000000000000B2C
+t1327793865
+s2860
+
+N/pocode/libraries/Boost/boost_1_45_0/boost/unordered_map.hpp
+c000000004F2486CB0000000000000226
+t1327793867
+s550
+
+N/pocode/libraries/Boost/boost_1_45_0/boost/variant.hpp
+c000000004F2486CC0000000000000373
+t1327793868
+s883
+
+N/var/folders/+j/+j0eMN4qHtuHAvpI6loUEU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/main-btcbbrlgbzqgjncwnuclxqgvvjkk/main.pch.pth
+t2
+s0
+
+N/var/folders/+j/+j0eMN4qHtuHAvpI6loUEU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/main-fzrwhokrmanmdsabblqqponbbvgq/main.pch.pth
+t2
+s0
+
+N/var/folders/+j/+j0eMN4qHtuHAvpI6loUEU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/main-hhvhqxzncfkhysdxmpuylskrklgr/main.pch.pth
+t2
+s0
+
+Nplatform/main.plist
+c000000004F273A8C00000000000003E2
+t1327970956
+s994
+
+CBuild AST from /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/../platform/AppDelegate.mm
+r0
+
+CBuild AST from /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/../platform/main.m
+r0
+
+CBuild AST from /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/../platform/poOpenGLView.mm
+r0
+
+CBuild AST from /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/AppConfig.cpp
+r0
+
+CBuild AST from /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/spatialMediaApp.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies45d83ce4a5d8b441^49d619e5a5d8b441^---0#1#0#--18"Check dependencies36"31157E85-6CA3-4282-A823-54878BECE1F5-
+
+CCompileC build/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/AppConfig.o /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/AppConfig.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s349742610.298259
+e349742612.829051
+r1
+xCompileC
+xbuild/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/AppConfig.o
+x/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/AppConfig.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/AppConfig.cpp696f4c12a6d8b441^043dd414a6d8b441^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/AppConfig.cpp0000000000000000^2586"CompileC build/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/AppConfig.o spatialMedia/AppConfig.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ivanabasic/Documents/PoCODE/spatialMediaApp    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/spatialMedia-generated-files.hmap -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/spatialMedia-own-target-headers.hmap -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/spatialMedia-all-target-headers.hmap -iquote /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/spatialMedia-project-headers.hmap -iquote/pocode/libraries/pocode -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/include -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/DerivedSources/i386 -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/DerivedSources -F/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug -include /var/folders/+j/+j0eMN4qHtuHAvpI6loUEU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/main-fzrwhokrmanmdsabblqqponbbvgq/main.pch -MMD -MT dependencies -MF /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/AppConfig.d -c /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/AppConfig.cpp -o /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/AppConfig.o36"CC1790AD-36D3-4AAF-B15B-3F9ACC3DC96B-
+
+CCompileC build/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/AppDelegate.o /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/../platform/AppDelegate.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s349742607.226482
+e349742610.296377
+r1
+xCompileC
+xbuild/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/AppDelegate.o
+x/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/../platform/AppDelegate.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/../platform/AppDelegate.mm05143a0fa6d8b441^08e34b12a6d8b441^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/../platform/AppDelegate.mm0000000000000000^2814"CompileC build/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/AppDelegate.o spatialMedia/../platform/AppDelegate.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ivanabasic/Documents/PoCODE/spatialMediaApp    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/spatialMedia-generated-files.hmap -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/spatialMedia-own-target-headers.hmap -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/spatialMedia-all-target-headers.hmap -iquote /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/spatialMedia-project-headers.hmap -iquote/pocode/libraries/pocode -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/include -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/DerivedSources/i386 -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/DerivedSources -F/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug -include /var/folders/+j/+j0eMN4qHtuHAvpI6loUEU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/main-btcbbrlgbzqgjncwnuclxqgvvjkk/main.pch -MMD -MT dependencies -MF /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/AppDelegate.d -c /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/../platform/AppDelegate.mm -o /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/AppDelegate.o36"0B99EB87-68BC-49B6-BE96-8885EB5AF5C3-
+
+CCompileC build/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/main.o /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/../platform/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349742568.948176
+e349742570.134937
+r1
+xCompileC
+xbuild/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/main.o
+x/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/../platform/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/../platform/main.mf6d4f2e8a5d8b441^268c22eaa5d8b441^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/../platform/main.m0000000000000000^2713"CompileC build/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/main.o spatialMedia/../platform/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ivanabasic/Documents/PoCODE/spatialMediaApp    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/spatialMedia-generated-files.hmap -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/spatialMedia-own-target-headers.hmap -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/spatialMedia-all-target-headers.hmap -iquote /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/spatialMedia-project-headers.hmap -iquote/pocode/libraries/pocode -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/include -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/DerivedSources/i386 -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/DerivedSources -F/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug -include /var/folders/+j/+j0eMN4qHtuHAvpI6loUEU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/main-hhvhqxzncfkhysdxmpuylskrklgr/main.pch -MMD -MT dependencies -MF /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/main.d -c /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/../platform/main.m -o /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/main.o36"672C609A-AB5F-43A2-B224-1F6F5747CA90-
+
+CCompileC build/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/poOpenGLView.o /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/../platform/poOpenGLView.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s349742610.297827
+e349742612.215112
+r1
+xCompileC
+xbuild/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/poOpenGLView.o
+x/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/../platform/poOpenGLView.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/../platform/poOpenGLView.mm08574c12a6d8b441^2b123714a6d8b441^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/../platform/poOpenGLView.mm0000000000000000^2819"CompileC build/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/poOpenGLView.o spatialMedia/../platform/poOpenGLView.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ivanabasic/Documents/PoCODE/spatialMediaApp    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/spatialMedia-generated-files.hmap -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/spatialMedia-own-target-headers.hmap -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/spatialMedia-all-target-headers.hmap -iquote /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/spatialMedia-project-headers.hmap -iquote/pocode/libraries/pocode -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/include -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/DerivedSources/i386 -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/DerivedSources -F/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug -include /var/folders/+j/+j0eMN4qHtuHAvpI6loUEU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/main-btcbbrlgbzqgjncwnuclxqgvvjkk/main.pch -MMD -MT dependencies -MF /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/poOpenGLView.d -c /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/../platform/poOpenGLView.mm -o /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/poOpenGLView.o36"111EDA97-B0E8-4256-AADC-D1317809954B-
+
+CCompileC build/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/spatialMediaApp.o /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/spatialMediaApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s349742596.948929
+e349742607.225029
+r1
+xCompileC
+xbuild/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/spatialMediaApp.o
+x/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/spatialMediaApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/spatialMediaApp.cpp2233f304a6d8b441^a19f390fa6d8b441^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/spatialMediaApp.cpp0000000000000000^2616"CompileC build/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/spatialMediaApp.o spatialMedia/spatialMediaApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ivanabasic/Documents/PoCODE/spatialMediaApp    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/spatialMedia-generated-files.hmap -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/spatialMedia-own-target-headers.hmap -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/spatialMedia-all-target-headers.hmap -iquote /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/spatialMedia-project-headers.hmap -iquote/pocode/libraries/pocode -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/include -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/DerivedSources/i386 -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/DerivedSources -F/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug -include /var/folders/+j/+j0eMN4qHtuHAvpI6loUEU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/main-fzrwhokrmanmdsabblqqponbbvgq/main.pch -MMD -MT dependencies -MF /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/spatialMediaApp.d -c /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/spatialMediaApp.cpp -o /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/spatialMediaApp.o36"080EF5EE-9C3A-467F-803B-743A19ABC72E-
+
+CCompileXIB /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/../platform/main.xib
+s349742617.848691
+e349742630.504190
+r1
+xCompileXIB
+x/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/../platform/main.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compiling /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/../platform/main.xibbc5bd919a6d8b441^83138126a6d8b441^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/../platform/main.xib0000000000000000^497"CompileXIB spatialMedia/../platform/main.xib    cd /Users/ivanabasic/Documents/PoCODE/spatialMediaApp    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/spatialMedia.app/Contents/Resources/main.nib /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/../platform/main.xib --sdk /Developer/SDKs/MacOSX10.6.sdk36"FB3568EC-632A-4C3D-9BBF-58C48F3938C1-
+
+CCopyStringsFile /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/spatialMedia.app/Contents/Resources/en.strings spatialMedia/../platform/en.strings
+s349742617.842452
+e349742617.883592
+r1
+xCopyStringsFile
+x/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/spatialMedia.app/Contents/Resources/en.strings
+xspatialMedia/../platform/en.strings
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy spatialMedia/../platform/en.stringsbfb9d719a6d8b441^7634e219a6d8b441^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/spatialMedia/../platform/en.strings0000000000000000^397"CopyStringsFile build/Debug/spatialMedia.app/Contents/Resources/en.strings spatialMedia/../platform/en.strings    cd /Users/ivanabasic/Documents/PoCODE/spatialMediaApp    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/spatialMedia.app/Contents/Resources -- spatialMedia/../platform/en.strings36"33CB7174-3D73-49FF-B0D0-B58C67644EA1-
+
+CCpResource platform/main.pch build/Debug/spatialMedia.app/Contents/Resources/main.pch
+s349742617.842871
+e349742617.847495
+r1
+xCpResource
+xplatform/main.pch
+xbuild/Debug/spatialMedia.app/Contents/Resources/main.pch
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/Debug/spatialMedia.app/Contents/Resources/main.pch24d1d719a6d8b441^34f7d819a6d8b441^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/spatialMedia.app/Contents/Resources/main.pch00f8f841dcffdf42^424"CpResource platform/main.pch build/Debug/spatialMedia.app/Contents/Resources/main.pch    cd /Users/ivanabasic/Documents/PoCODE/spatialMediaApp    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/platform/main.pch /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/spatialMedia.app/Contents/Resources36"1F4E5DC1-72D9-4616-B906-C714E634C1AF-
+
+CLd /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/spatialMedia.app/Contents/MacOS/spatialMedia normal i386
+s349742612.830886
+e349742617.839959
+r1
+xLd
+x/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/spatialMedia.app/Contents/MacOS/spatialMedia
+xnormal
+xi386
+old: warning: direct access in __ZN5boost6system12system_errorD2Ev to global weak symbol __ZTVN5boost6system12system_errorE means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Link /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/spatialMedia.app/Contents/MacOS/spatialMediac9c9d414a6d8b441^5309d719a6d8b441^-283"ld: warning: direct access in __ZN5boost6system12system_errorD2Ev to global weak symbol __ZTVN5boost6system12system_errorE means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.1(21%IDEActivityLogMessage2@269"Direct access in __ZN5boost6system12system_errorD2Ev to global weak symbol __ZTVN5boost6system12system_errorE means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.-349742617#0#283#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--0#0#0#--848"Ld build/Debug/spatialMedia.app/Contents/MacOS/spatialMedia normal i386    cd /Users/ivanabasic/Documents/PoCODE/spatialMediaApp    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/clang++ -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug -L/pocode/libraries/pocode -F/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug -filelist /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/Objects-normal/i386/spatialMedia.LinkFileList -mmacosx-version-min=10.6 -lpocode_d /usr/lib/libsqlite3.0.dylib -framework Cocoa -framework ApplicationServices -framework OpenGL -framework CoreVideo -framework QTKit -o /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/spatialMedia.app/Contents/MacOS/spatialMedia36"5FA3855B-2CCE-4000-965B-050BCDC55FC1-
+
+CProcessInfoPlistFile /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/spatialMedia.app/Contents/Info.plist platform/main.plist
+s349742565.109186
+e349742565.113021
+r1
+xProcessInfoPlistFile
+x/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/spatialMedia.app/Contents/Info.plist
+xplatform/main.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection27"Process platform/main.plist2d051ce5a5d8b441^986a36e5a5d8b441^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/platform/main.plist0000000000000000^447"ProcessInfoPlistFile build/Debug/spatialMedia.app/Contents/Info.plist platform/main.plist    cd /Users/ivanabasic/Documents/PoCODE/spatialMediaApp    builtin-infoPlistUtility platform/main.plist -genpkginfo /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/spatialMedia.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/spatialMedia.app/Contents/Info.plist36"93E772FA-2E0D-4FFB-8946-C8568FFF2794-
+
+CProcessPCH /Users/ivanabasic/Library/Developer/Xcode/DerivedData/spatialMedia-hgbhupieslkdbjebgepgiyuzbbwm/Index/PrecompiledHeaders/main-dfifyzewlukdboawsapkawghyrls_ast/main.pch.pth platform/main.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/+j/+j0eMN4qHtuHAvpI6loUEU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/main-hhvhqxzncfkhysdxmpuylskrklgr/main.pch.pth platform/main.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349742565.115607
+e349742568.946579
+r1
+xProcessPCH
+x/var/folders/+j/+j0eMN4qHtuHAvpI6loUEU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/main-hhvhqxzncfkhysdxmpuylskrklgr/main.pch.pth
+xplatform/main.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile platform/main.pchb6bd1de5a5d8b441^2e54f2e8a5d8b441^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/platform/main.pch0000000000000000^2644"ProcessPCH /var/folders/+j/+j0eMN4qHtuHAvpI6loUEU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/main-hhvhqxzncfkhysdxmpuylskrklgr/main.pch.pth platform/main.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ivanabasic/Documents/PoCODE/spatialMediaApp    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/spatialMedia-generated-files.hmap -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/spatialMedia-own-target-headers.hmap -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/spatialMedia-all-target-headers.hmap -iquote /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/spatialMedia-project-headers.hmap -iquote/pocode/libraries/pocode -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/include -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/DerivedSources/i386 -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/DerivedSources -F/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug -c /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/platform/main.pch -o /var/folders/+j/+j0eMN4qHtuHAvpI6loUEU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/main-hhvhqxzncfkhysdxmpuylskrklgr/main.pch.pth -MMD -MT dependencies -MF /var/folders/+j/+j0eMN4qHtuHAvpI6loUEU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/main-hhvhqxzncfkhysdxmpuylskrklgr/main.pch.d36"34BEDF74-D991-4175-812A-E1124C3E1A5D-
+
+CProcessPCH++ /Users/ivanabasic/Library/Developer/Xcode/DerivedData/spatialMedia-hgbhupieslkdbjebgepgiyuzbbwm/Index/PrecompiledHeaders/main-clmoihknngugvqallkjoilqybgho_ast/main.pch.pth platform/main.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /Users/ivanabasic/Library/Developer/Xcode/DerivedData/spatialMedia-hgbhupieslkdbjebgepgiyuzbbwm/Index/PrecompiledHeaders/main-eyfiqotnfxlyuifgnmsglpkkcgqg_ast/main.pch.pth platform/main.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/+j/+j0eMN4qHtuHAvpI6loUEU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/main-btcbbrlgbzqgjncwnuclxqgvvjkk/main.pch.pth platform/main.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s349742565.115578
+e349742606.488828
+r1
+xProcessPCH++
+x/var/folders/+j/+j0eMN4qHtuHAvpI6loUEU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/main-btcbbrlgbzqgjncwnuclxqgvvjkk/main.pch.pth
+xplatform/main.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile platform/main.pchcbbc1de5a5d8b441^6c247d0ea6d8b441^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/platform/main.pch0000000000000000^2710"ProcessPCH++ /var/folders/+j/+j0eMN4qHtuHAvpI6loUEU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/main-btcbbrlgbzqgjncwnuclxqgvvjkk/main.pch.pth platform/main.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ivanabasic/Documents/PoCODE/spatialMediaApp    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/spatialMedia-generated-files.hmap -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/spatialMedia-own-target-headers.hmap -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/spatialMedia-all-target-headers.hmap -iquote /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/spatialMedia-project-headers.hmap -iquote/pocode/libraries/pocode -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/include -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/DerivedSources/i386 -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/DerivedSources -F/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug -c /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/platform/main.pch -o /var/folders/+j/+j0eMN4qHtuHAvpI6loUEU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/main-btcbbrlgbzqgjncwnuclxqgvvjkk/main.pch.pth -MMD -MT dependencies -MF /var/folders/+j/+j0eMN4qHtuHAvpI6loUEU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/main-btcbbrlgbzqgjncwnuclxqgvvjkk/main.pch.d36"DD2979A0-85BD-448C-8A1C-6F2248411BC0-
+
+CProcessPCH++ /var/folders/+j/+j0eMN4qHtuHAvpI6loUEU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/main-fzrwhokrmanmdsabblqqponbbvgq/main.pch.pth platform/main.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s349742565.115809
+e349742596.947603
+r1
+xProcessPCH++
+x/var/folders/+j/+j0eMN4qHtuHAvpI6loUEU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/main-fzrwhokrmanmdsabblqqponbbvgq/main.pch.pth
+xplatform/main.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile platform/main.pch48c31de5a5d8b441^e8a1f204a6d8b441^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/platform/main.pch0000000000000000^2514"ProcessPCH++ /var/folders/+j/+j0eMN4qHtuHAvpI6loUEU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/main-fzrwhokrmanmdsabblqqponbbvgq/main.pch.pth platform/main.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ivanabasic/Documents/PoCODE/spatialMediaApp    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/spatialMedia-generated-files.hmap -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/spatialMedia-own-target-headers.hmap -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/spatialMedia-all-target-headers.hmap -iquote /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/spatialMedia-project-headers.hmap -iquote/pocode/libraries/pocode -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/include -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/DerivedSources/i386 -I/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/spatialMedia.build/Debug/spatialMedia.build/DerivedSources -F/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug -c /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/platform/main.pch -o /var/folders/+j/+j0eMN4qHtuHAvpI6loUEU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/main-fzrwhokrmanmdsabblqqponbbvgq/main.pch.pth -MMD -MT dependencies -MF /var/folders/+j/+j0eMN4qHtuHAvpI6loUEU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/main-fzrwhokrmanmdsabblqqponbbvgq/main.pch.d36"1A56B392-E13E-4F5A-871E-C394B3ECF768-
+
+CTouch /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/spatialMedia.app
+s349742630.508158
+e349742630.576892
+r1
+xTouch
+x/Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/spatialMedia.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Touch /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/spatialMedia.app95298226a6d8b441^3eb09326a6d8b441^---0#0#0#--195"Touch build/Debug/spatialMedia.app    cd /Users/ivanabasic/Documents/PoCODE/spatialMediaApp    /usr/bin/touch -c /Users/ivanabasic/Documents/PoCODE/spatialMediaApp/build/Debug/spatialMedia.app36"90AAA50E-CE49-4AB3-8339-AEB2BA12D2C4-
+
