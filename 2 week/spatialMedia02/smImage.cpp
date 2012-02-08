@@ -29,6 +29,11 @@ smImage::smImage( const char* fileName, int W, int H )
     imageAsTexture = new poTexture( width, height, imageData, poTextureConfig(GL_LUMINANCE) );
 }
 
+
+
+
+
+
 int     smImage::getPixel( int x, int y )
 {
     int index = x + y*width;                    // calculate the pixel index
@@ -40,6 +45,12 @@ int     smImage::getPixel( int x, int y )
     return imageData[index];                    // return the pixel
 }
 
+
+
+
+
+
+
 void    smImage::setPixel( int x, int y, int grayValue )
 {
     int index = x + y*width;                    // calculate the pixel index
@@ -50,6 +61,12 @@ void    smImage::setPixel( int x, int y, int grayValue )
     }
     imageData[index] = grayValue;               // set the pixel
 }
+
+
+
+
+
+
 
 void    smImage::draw()
 {
@@ -77,6 +94,7 @@ void    smImage::fastDraw()
 }
 
 
+
 void smImage::invert()
 
 {
@@ -91,14 +109,50 @@ void smImage::invert()
          po::drawFilledRect(x*5, y*5,5,5);
          
          
-         
-     
-     
-     }
- 
- 
- }
-
-
+      }
+   }
 
 }
+
+
+
+
+void smImage::flip( )
+{
+        
+    
+    videoMirror = new unsigned char[width*height];
+   // mirrorTexture.allocate(width, height);
+    
+    
+    for (int i = 0; i < height; i++) {
+        for (int j = 0; j < width*3; j+=3) {
+            // pixel number
+            int pix1 = (i*width) + j;
+            
+             int mir1 = (i*width*3)+1 * (height*3 - j-3);
+            
+            imageData[index] = videoMirror[mir1];
+
+            
+          //draw pixels
+            
+        po::setColor( poColor( 0.3 , 0.3, 0.3) );  // set the color
+         po::drawFilledRect( 100,100, 300, 300 );   
+
+           
+    
+    
+    
+    
+    
+
+            
+        }      
+    
+    
+       
+    
+                   
+    }}                
+

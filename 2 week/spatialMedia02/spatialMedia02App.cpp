@@ -39,6 +39,15 @@ void spatialMedia02App::draw() {
     
 }
 
+    
+    if ( lastKeyDown == '3' )
+    {
+        myImage->flip();
+        
+        
+    }
+
+    
 }
 
 // EVENT HANDLER. Called when events happen. Respond to events here.

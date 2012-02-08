@@ -12,6 +12,7 @@ public:
     virtual void draw();
     
     void invert();
+    void flip();
 	
     virtual void eventHandler(poEvent *event);
 	

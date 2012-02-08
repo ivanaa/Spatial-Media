@@ -16,7 +16,7 @@ public:
     // draw image methods
     void    draw();
     void    fastDraw();
-    
+    void  flip();
     
     void     invert();
     
@@ -26,10 +26,18 @@ public:
     
     // image data variables
     int             width, height;
-    unsigned char*  imageData;
+    unsigned char*  imageData,videoMirror;
 
     // this poTexture is used for the fastDraw method
     poTexture*      imageAsTexture;
+    
+    
+    bool imageFlipped;
+    
+    poTexture mirrorTexture;
+    
+    
+    
 };
 
 
