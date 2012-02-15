@@ -7,15 +7,15 @@ cProcessPCH++ /var/folders/+j/+j0eMN4qHtuHAvpI6loUEU+++TI/-Caches-/com.apple.Xco
 cProcessPCH /var/folders/+j/+j0eMN4qHtuHAvpI6loUEU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/main-frifrxnyzvuopwbfwjecqelvtqms/main.pch.pth platform/main.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cProcessPCH++ /var/folders/+j/+j0eMN4qHtuHAvpI6loUEU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/main-cmoypxccffagynemmvnzgclchuur/main.pch.pth platform/main.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/AppDelegate.o "/Users/ivanabasic/Documents/++PoCODE/2 week Homework/spatialMedia02/../platform/AppDelegate.mm" normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/poOpenGLView.o "/Users/ivanabasic/Documents/++PoCODE/2 week Homework/spatialMedia02/../platform/poOpenGLView.mm" normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/main.o "/Users/ivanabasic/Documents/++PoCODE/2 week Homework/spatialMedia02/../platform/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/poOpenGLView.o "/Users/ivanabasic/Documents/++PoCODE/2 week Homework/spatialMedia02/../platform/poOpenGLView.mm" normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/spatialMedia02App.o "/Users/ivanabasic/Documents/++PoCODE/2 week Homework/spatialMedia02/spatialMedia02App.cpp" normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/smImage.o "/Users/ivanabasic/Documents/++PoCODE/2 week Homework/spatialMedia02/smImage.cpp" normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/AppConfig.o "/Users/ivanabasic/Documents/++PoCODE/2 week Homework/spatialMedia02/AppConfig.cpp" normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/smImage.o "/Users/ivanabasic/Documents/++PoCODE/2 week Homework/spatialMedia02/smImage.cpp" normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
 cLd "/Users/ivanabasic/Documents/++PoCODE/2 week Homework/build/Debug/spatialMedia02.app/Contents/MacOS/spatialMedia02" normal i386
 cCopyStringsFile "/Users/ivanabasic/Documents/++PoCODE/2 week Homework/build/Debug/spatialMedia02.app/Contents/Resources/en.strings" spatialMedia02/../platform/en.strings
-cCpResource platform/main.pch build/Debug/spatialMedia02.app/Contents/Resources/main.pch
 cCompileXIB "/Users/ivanabasic/Documents/++PoCODE/2 week Homework/spatialMedia02/../platform/main.xib"
+cCpResource platform/main.pch build/Debug/spatialMedia02.app/Contents/Resources/main.pch
 cTouch "/Users/ivanabasic/Documents/++PoCODE/2 week Homework/build/Debug/spatialMedia02.app"
 
 N/Developer/SDKs/MacOSX10.6.sdk
@@ -39,7 +39,7 @@ t1307490300
 s16260
 
 N/Users/ivanabasic/Documents/++PoCODE/2 week Homework/build/Debug/spatialMedia02.app
-t1328669565
+t1328669587
 s102
 
 N/Users/ivanabasic/Documents/++PoCODE/2 week Homework/build/Debug/spatialMedia02.app/Contents/Info.plist
@@ -47,7 +47,7 @@ t1328669190
 s1292
 
 N/Users/ivanabasic/Documents/++PoCODE/2 week Homework/build/Debug/spatialMedia02.app/Contents/MacOS/spatialMedia02
-t1328669565
+t1328669587
 s7499704
 
 N/Users/ivanabasic/Documents/++PoCODE/2 week Homework/build/Debug/spatialMedia02.app/Contents/PkgInfo
@@ -83,8 +83,8 @@ t1328669492
 s471232
 
 N/Users/ivanabasic/Documents/++PoCODE/2 week Homework/build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/smImage.o
-t1328669565
-s127660
+t1328669587
+s127644
 
 N/Users/ivanabasic/Documents/++PoCODE/2 week Homework/build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/spatialMedia02.LinkFileList
 c000000004F31E3110000000000000348
@@ -4831,7 +4831,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies8bc428111be2b441^fb5b2a111be2b441^---0#1#0#--18"Check dependencies36"5EACC384-86E8-412D-9225-CF363FCC7BB7-
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies1748605128e4b441^b83a485228e4b441^---0#1#0#--18"Check dependencies36"898FE615-6740-49FF-9455-AA2241AAD291-
 
 CCompileC build/spatialMedia02.build/Debug/spatialMedia02.build/Objects-normal/i386/AppConfig.o "/Users/ivanabasic/Documents/++PoCODE/2 week Homework/spatialMedia02/AppConfig.cpp" normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
 s350362292.135723
