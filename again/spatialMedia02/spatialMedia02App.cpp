@@ -3,7 +3,8 @@
 #include "spatialMedia02App.h"
 #include "poApplication.h"
 #include "poCamera.h"
-
+#include <iostream>
+using namespace std;
 
 // APP CONSTRUCTOR. Create all objects here.
 spatialMedia02App::spatialMedia02App() {
@@ -30,6 +31,11 @@ spatialMedia02App::~spatialMedia02App() {
 // UPDATE. Called once per frame. Animate objects here.
 void spatialMedia02App::update() {
 	
+    
+    
+
+    
+    
     for (int x = 0; x<myImage0->width; x++){
         for (int y = 0; y< myImage0->height; y++){
         
@@ -39,6 +45,19 @@ void spatialMedia02App::update() {
         int forg = myImage00->getPixel(x,y);
 
         int diff = abs (back- forg);
+            
+            if (diff>threshold){
+            
+                diff = 255;
+            
+            
+            }
+            else {
+            
+            
+                diff = 0;
+            
+            }
             myImage3->setPixel(x,y,diff);
 
     }
@@ -49,6 +68,8 @@ void spatialMedia02App::update() {
         
         myImage0 = new smImage( "1.raw", 400, 300 ); 
         myImage00 = new smImage( "2.raw", 400, 300 ); 
+        
+        threshold = 28;
     }
     
     
@@ -57,7 +78,10 @@ void spatialMedia02App::update() {
     {
         
         myImage0 = new smImage( "3.raw", 400, 300 ); 
-        myImage00 = new smImage( "4.raw", 400, 300 ); 
+        myImage00 = new smImage( "4.raw", 400, 300 );
+        
+        threshold = 64;
+
     }
     
     
@@ -67,10 +91,12 @@ void spatialMedia02App::update() {
         
         myImage0 = new smImage( "5.raw", 400, 300 ); 
         myImage00 = new smImage( "6.raw", 400, 300 ); 
+        threshold = 12;
+
     }
     
+    cout<< threshold <<endl;
 
-    
     
 }
 
@@ -78,7 +104,7 @@ void spatialMedia02App::update() {
 void spatialMedia02App::draw() {
 	
     
-     
+
     
     
       // draw the image
@@ -96,8 +122,12 @@ void spatialMedia02App::eventHandler(poEvent *event) {
     {
         mouseX = event->globalPosition.x;
         mouseY = event->globalPosition.y;
+        
+        
         threshold = mouseX;
-    }
+        
+ 
+            }
     
     if ( event->type == PO_KEY_DOWN_EVENT )
     {

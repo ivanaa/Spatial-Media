@@ -24,7 +24,8 @@ public:
     
     int         threshold, back, forg, diff;
     
-    float       mouseX, mouseY;
+    float       mouseX, mouseY, treshold;
     char        lastKeyDown;
+    
 };
 
