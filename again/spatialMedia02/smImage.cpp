@@ -10,6 +10,9 @@
 
 smImage::smImage( const char* fileName, int W, int H )
 {  
+    
+    
+    bool There = false;
     // set the image width and height
     width = W;
     height = H;
@@ -91,7 +94,54 @@ void    smImage::fastDraw( float x, float y )
 }
 
 
+bool smImage::SomethingThere(int x0, int  y0, int x1, int y1){
 
+    float totalPixels = (x1-x0)* (y1-y0);
+    
+    float counter;
+    float ratio;
+    bool There;
+    
+ for (int x = x0; x<x1; x++){
+       
+   
+     
+     for (int y = y0; y<y1; y++) {
+            float light = getPixel(x, y);
+        
+         
+         
+         
+            if (light==255) {
+                There = true;
+                counter++;
+                
+                           }
+            else{
+            
+                There = false;
+            
+            
+            }}
+    
+     ratio = counter/totalPixels;
+
+     
+     if (ratio>0.5){
+         There = true;
+    
+    }
+    
+     else {
+         
+         There = false;
+     }
+
+        }
+
+    return (There);
+
+}
 
 
 

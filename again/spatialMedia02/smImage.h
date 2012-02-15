@@ -28,6 +28,11 @@ public:
 
     // this poTexture is used for the fastDraw method
     poTexture*      imageAsTexture;
+    
+    bool ratio;
+    
+    bool SomethingThere(int x0, int  y0, int x1, int y1);
+    //bool There;
 };
 
 

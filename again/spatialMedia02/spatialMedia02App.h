@@ -27,5 +27,6 @@ public:
     float       mouseX, mouseY, treshold;
     char        lastKeyDown;
     
+    bool Yes;
 };
 

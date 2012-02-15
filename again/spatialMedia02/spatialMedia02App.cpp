@@ -22,6 +22,9 @@ myImage0 = new smImage( 400, 300 );
    myImage3 = new smImage( 400,300 );
     
     threshold = 20;
+    
+    
+    Yes = false;
 }
 
 // APP DESTRUCTOR. Delete all objects here.
@@ -95,8 +98,18 @@ void spatialMedia02App::update() {
 
     }
     
-    cout<< threshold <<endl;
-
+    
+    Yes = myImage3->SomethingThere(0,0,400,300);
+    
+    if (Yes == true){
+    cout<< "Yes" <<endl;
+    }
+    
+    else {
+       cout<< "No" <<endl;
+    
+    
+    }
     
 }
 
@@ -139,5 +152,6 @@ void spatialMedia02App::eventHandler(poEvent *event) {
 void spatialMedia02App::messageHandler(const std::string &msg, const poDictionary& dict) {
 	
 }
+
 
 
